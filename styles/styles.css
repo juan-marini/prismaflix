@@ -1,0 +1,26 @@
+@import url("header.css");
+@import url("banner.css");
+@import url("carrossel.css");
+@import url("topicos.css");
+@import url("contato.css");
+@import url("rodape.css");
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #ffffff;
+    --laranja: #76ABAE;
+    --azul: #222831;
+    --font-principal: "Poppins";
+    --font-secundaria: "Josefin sans";
+    --preto: #000000;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--font-principal);
+}
+
+h1 {
+    background-color: white;
+}
+
