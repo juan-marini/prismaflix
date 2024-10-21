@@ -1,7 +1,5 @@
 # Práticas de HTML e CSS com SwiperJS!
 
-![image](https://media.discordapp.net/attachments/483048278196486154/1222744579464233063/image.png?ex=661754a1&is=6604dfa1&hm=57e685017bde3be170aba60d627108310da756fbbd7d948e87ed3fb03bee6caf&=&format=webp&quality=lossless&width=1025&height=468)
-
 ## Tecnologias utilizadas:
 
 * HTML
